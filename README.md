@@ -1,2 +1,2 @@
 # LeetCodes
-Practice Leet-Codes for different Technical Interviews. Using Python.
+Practice Leet-codes and study materials for different technical interviews.
